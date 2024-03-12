@@ -1,0 +1,18 @@
+# All global modifiers are here.  They are applied from certain game-features.
+#
+# Effects are fully scriptable here.
+
+# The names can NOT be removed or changed since the code references them
+
+##########################################################################
+### RESOURCE DEFICITS
+##########################################################################
+luminescent_ferns_deficit = {
+	planet_jobs_produces_mult = -0.25
+}
+
+
+
+fern_gassing = {
+	icon = "gfx/interface/icons/modifiers/mod_javorian_pox.dds"
+}
